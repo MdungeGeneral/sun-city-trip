@@ -1,6 +1,4 @@
-# ✨ Enhanced Sun City Itinerary
-
-Your itinerary is already solid, but you could make it more memorable by weaving in some of Sun City's signature experiences and balancing high-energy activities with downtime.
+# ✨ Sun City Itinerary
 
 ---
 
@@ -71,35 +69,43 @@ Indicative Costs:
   <img src="https://image.pollinations.ai/prompt/Valley%20of%20Waves%20water%20park%20in%20Sun%20City%20with%20loungers%20and%20wave%20pool" alt="Valley of Waves" style="width:100%;height:260px;object-fit:cover;display:block;" />
 </div>
 
-## Day 3 – Sun City Adventure Day (+ Wildlife & Jungle Reset)
+## Day 3 – Adventure Day (+ Wildlife & Jungle Reset)
 
-Activities (pricing indicative – confirm on-site; pp = per person):
-- **Valley of Waves** (Paid – access ~R300–R400 pp, season dependent)
-- **Jungle of the Lost City** (Free – shaded botanical walk)
-- **Maze of the Lost City** (Paid – ~R130 pp)
-- **Predator World** (Paid – R160 adult / R80 child)
-- **Waterworld Activities** (Paid – Jet ski R550–R650 pp / Parasailing R650–R850 pp)
-- Snack / Hydration Break (Own cost)
-- Optional Locker Hire: ~R50 (refundable deposit variations)
-- Sunscreen top-up (if bought on-site): ~R150–R250
-- Lunch (light meal): ~R120–R200 pp
+High‑energy fun with wildlife encounters, water activities, and nature resets to create the perfect adventure day.
 
-Flexible Flow (sequence, not fixed times):
-1. Arrive early at Valley of Waves; secure loungers & settle.
-2. Enjoy slides / wave cycles; pause for a mid-morning snack.
-3. Option A: Jungle of the Lost City cool-down before lunch. OR keep Jungle for later.
-4. Light lunch (avoid heavy meals before water activities).
-5. Maze of the Lost City (active explore + photos).
-6. Predator World visit (up-close wildlife viewing - arrive early for cooler temps).
+Activity Set & Indicative Costs (pp = per person):
+- **Predator World** (R160 / R80 child)
+- **Maze of the Lost City** (~R130 pp)
+- **Jungle of the Lost City** (Free)
+- **Light Lunch** (R120–R200 pp)
+- **Valley of Waves Access** (R300–R400 pp)
+- **Waterworld Jet Ski** (15m shared) (R550–R650 pp)
+- **Parasailing** (R650–R850 pp)
+- **Dinner (Resort Restaurants)** (R180–R350 pp)
+
+Flexible Flow (No Rigid Times):
+1. Predator World visit (up-close wildlife viewing - arrive early for cooler temps).
+2. Maze exploration (active stroll + photos).
+3. Optional jungle walk (cool shade) before lunch.
+4. Light lunch break.
+5. Arrive at Valley of Waves, claim loungers.
+6. Slides / wave cycles; snack + hydrate.
 7. Waterworld activities (jet ski / parasailing - choose based on energy & weather).
-8. Option B: Jungle later as decompress before evening.
-9. Evening dinner + optional casino / entertainment.
+8. Optional jungle walk later as decompression / photography (if not done earlier).
+9. Dinner + optional casino / entertainment.
 
-Notes:
-- Choose Option A or B for Jungle based on heat, crowds, and activity timing.
-- Check weather conditions for water activities - wind affects parasailing.
-- Take breaks between high-energy activities to avoid fatigue.
-- Hydration + sunscreen reapplication every 90 minutes.
+Recovery & Balance Tips:
+- Rotate shade + water exposure to prevent fatigue.
+- Electrolyte sachet midday if heat is high.
+- Reapply sunscreen every 90 minutes (more after water activities).
+- Lock valuables (phone, wallet) in a central locker.
+- Take breaks between high-energy activities.
+
+Decision Points:
+- **Jungle Timing:** Earlier = cooler & quieter; later = decompress transition.
+- **Predator World:** Early visit for active animals and cooler temperatures.
+- **Water Activities:** Check weather conditions; wind affects parasailing.
+- **Lunch:** Keep light to maintain energy for afternoon activities.
 
 <!-- Compact gallery for secondary attractions -->
 <div style="display:flex; gap:2%; margin:12px 0 4px;">
